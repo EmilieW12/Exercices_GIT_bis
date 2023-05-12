@@ -3,3 +3,4 @@ Toto
 3eme ligne
 Nouvelle fonctionnalité
 petite modif
+ajout d'une modif majeuregit commit -m PremiersPas.txt: suppression de deuxieme petite modif
